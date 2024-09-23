@@ -22,6 +22,9 @@ The dataset used in this project is sourced from Kaggle and contains various det
 - **Exploratory Data Analysis (EDA)**: In-depth analysis using Python to explore various aspects of the data, such as ratings, cost distribution, and restaurant types.
 - **Power BI Dashboard**: Created an interactive dashboard to visualize key insights, including top-rated restaurants, cuisine distribution, and price ranges.
 
+## Visualizations
+  ![image](https://github.com/user-attachments/assets/d6acf119-a646-458e-9a62-cac048107c1c)
+
 ## Installation
 To replicate the analysis or customize the dashboard, follow these steps:
 
